@@ -1,5 +1,3 @@
-
-
 import jwt
 import yaml
 import bcrypt
